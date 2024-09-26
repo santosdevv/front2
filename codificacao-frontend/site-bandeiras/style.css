@@ -1,0 +1,128 @@
+.alagoas {
+    display: flex;
+    width: 600px;
+    border: 3px solid black;
+}
+
+.alagoas1 {
+    width: 200px;
+    height: 400px;
+    background-color: red;
+}
+
+.alagoas2 {
+    width: 200px;
+    height: 400px;
+    background-image: url(alagoas-oficial-brasao-logo.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.alagoas3 {
+    width: 200px;
+    background-color: blue;
+    height: 400px;
+}
+
+.franca {
+    display: flex;
+    width: 600px;
+    border: 3px solid black;
+}
+
+.franca1 {
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+}
+
+.franca2 {
+    width: 200px;
+    height: 400px;
+
+}
+
+.franca3 {
+    width: 200px;
+    background-color: red;
+    height: 400px;
+}
+.italia {
+    display: flex;
+    width: 600px;
+    border: 3px solid black;
+}
+
+.italia1 {
+    width: 200px;
+    height: 400px;
+    background-color: green;
+}
+
+.italia2 {
+    width: 200px;
+    height: 400px;
+
+}
+
+.italia3 {
+    width: 200px;
+    background-color: red;
+    height: 400px;
+}
+.alemanha {
+    flex-direction: column;
+    display: flex;
+    width: 600px;
+    border: 3px solid black;
+}
+
+
+.alemanha1 {
+    width: 600px;
+    height: 100px;
+    background-color: black;
+}
+
+.alemanha2 {
+    width: 600px;
+    height: 100px;
+    background-color: yellow;
+
+}
+
+.alemanha3 {
+    width: 600px;
+    height: 100px;
+    background-color: red;
+}
+.argentina {
+    flex-direction: column;
+    display: flex;
+    width: 600px;
+    border: 3px solid black;
+}
+
+
+.argentina1 {
+    width: 600px;
+    height: 100px;
+    background-color: cyan;
+}
+
+.argentina2 {
+    width: 600px;
+    height: 100px;
+    background-image: url(sol-maio.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.argentina3 {
+    width: 600px;
+    height: 100px;
+    background-color: cyan;
+}
